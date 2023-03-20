@@ -1,0 +1,40 @@
+---
+layout: single
+title:  "mark down"
+---
+
+# heading
+## heading
+### heading
+#### heading
+___
+
+**bold**
+
+*italic*
+
+~~strikethrough~~
+
+> 안녕하세요
+
+
+* ♥
+* ★
+
+1. ㄱㄴㄷ
+2. ㄻㅂ
+3. abc
+
+CLick [here](https://seungjae23.github.i)
+
+![사진](https://user-images.githubusercontent.com/127652097/226182523-dec9a9c2-62f6-405f-82a0-0eac117f40d7.jpg)
+
+
+|header|description|
+|--|--| 
+|1|2|
+|3|4|
+
+```
+console.log(hello world)
+```
